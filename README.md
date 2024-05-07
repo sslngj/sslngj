@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on model aircraft control
+- 🌱 I’m currently learning ros and opencv
+
 
 <!--
 **sslngj/sslngj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
